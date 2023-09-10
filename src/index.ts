@@ -3,6 +3,7 @@ const colorScale = 12;
 const radixColors = [
   "tomato",
   "red",
+  "ruby",
   "crimson",
   "pink",
   "plum",
